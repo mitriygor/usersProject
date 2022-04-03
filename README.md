@@ -5,3 +5,7 @@
 https://github.com/mitriygor/usersProjectLib — a library with loggers
 
 https://github.com/mitriygor/usersProjectAuth — authentication service
+
+### Description
+
+![alt text](images/hex-app.png)
